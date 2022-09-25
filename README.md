@@ -14,16 +14,17 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Macdonald Daniel's Cloud Journey
 
-[✍️ Introduce yourself]
+✍ I am currently in a non-tech space lookiing to transition to tech, particularly cloud technologies which i believe is a great & rewarding future career part.
 
-[✍️ Tell us why you started this challenge]
+I have obtained the [AWS Certified Cloud Practitioner Certification] and currently working towards the [AWS Certified Solutions Architect - Associate]. This challange provides a great opportunity to develop tangible hands-on-experience to strenghten my knowledge and expertise of the cloud architecture.
 
-[✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+✍️ At the end of this challenge, i will like to be job ready and confident in my cloud abilities.
+
+- [✍️ https://twitter.com/thelogicalguy_]
+- [✍️ https://www.linkedin.com/in/macdonald-daniel-86352b135/]
 
 ## Stepping out the door
 

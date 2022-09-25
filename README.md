@@ -16,15 +16,15 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Macdonald Daniel's Cloud Journey
 
-✍ I am currently in a non-tech space lookiing to transition to tech, particularly cloud technologies which i believe is a great & rewarding future career part.
+I am currently in a non-tech space lookiing to transition to tech, particularly cloud technologies which i believe is a great & rewarding future career part.
 
 I have obtained the [AWS Certified Cloud Practitioner Certification] and currently working towards the [AWS Certified Solutions Architect - Associate]. This challange provides a great opportunity to develop tangible hands-on-experience to strenghten my knowledge and expertise of the cloud architecture.
 
 
-✍️ At the end of this challenge, i will like to be job ready and confident in my cloud abilities.
+At the end of this challenge, i will like to be job ready and confident in my cloud abilities.
 
-- [✍️ https://twitter.com/thelogicalguy_]
-- [✍️ https://www.linkedin.com/in/macdonald-daniel-86352b135/]
+- https://twitter.com/thelogicalguy_
+- https://www.linkedin.com/in/macdonald-daniel-86352b135/
 
 ## Stepping out the door
 
